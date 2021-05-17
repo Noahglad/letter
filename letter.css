@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+#firstaddress {
+    margin-top: 20px;
+    text-align: justify;
+    float: right;
+}
+
+#secondaddress {
+    text-align: justify;
+    padding-top: 90px;
+}
+
+#main-body p {
+    padding-top: 10px;
+}
+
+#salutation {
+    padding-top: 20px;
+}
+
+#conclusion {
+    margin-top: 20px;
+    text-align: justify;
+    float: right;
+}
+
+#sign {
+    font-family: brush script std;
+    font-weight: bolder;
+}
